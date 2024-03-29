@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:linear-gradient(white,gray,rgb(59, 58, 58),black);
+    
+}
+.título{
+    margin: 10px;
+    font-style: italic;
+}
+.apresenta{
+    display: flex;
+    justify-content: space-around;
+}
+#adicionar{
+    border-radius: 30%;
+}
+.fundo{
+    width: auto;
+}
